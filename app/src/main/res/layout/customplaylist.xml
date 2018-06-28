@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/list_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/grid_spacing"
+        android:drawablePadding="@dimen/grid_spacing"
+        android:drawableStart="@drawable/ic_queue_music_black_24dp"
+        android:fontFamily="@string/fontfamily"
+        android:padding="@dimen/grid_spacing"
+        android:textColor="@color/titleColor"
+        android:textSize="@dimen/listItem"/>
+

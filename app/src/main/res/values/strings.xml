@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">MusicalApplication</string>
+    <string name="app_title">Welcome to Music Store</string>
+    <string name="fontfamily">times new roman</string>
+    <!-- Playlist -->
+    <string name="playlist">Select Preferred Playlist</string>
+    <string name="hindi">Hindi</string>
+    <string name="punjabi">Punjabi</string>
+    <string name="bollywood">Bollywood</string>
+    <string name="artist">Artist</string>
+    <string name="app_playlist">Playlist</string>
+    <string name="app_english">English Songs</string>
+    <string name="app_punjabi">Punjabi Songs</string>
+    <string name="app_bollywood">Bollywood Songs</string>
+    <string name="app_artist">Artists Songs</string>
+    <string name="english">English</string>
+    <!-- Albums PlayList-->
+    <string name="bollywoodList">Select Bollywood Album</string>
+    <string name="punjabiList">Select Punjabi Album</string>
+    <string name="artistList">Select Artist Album</string>
+    <string name="englishList">Select English Album</string>
+    <!--Bollywood Album-->
+    <string name="kick">Kick</string>
+    <string name="hero">Hero</string>
+    <string name="rustom">Rustom</string>
+    <string name="hateStory4">HateStory4</string>
+    <string name="padman">Padman</string>
+    <string name="padmavat">Padmavat</string>
+    <string name="parmanu">Parmanu</string>
+    <string name="raazi">Razzi</string>
+    <string name="race3">RACE 3</string>
+    <string name="blackmail">Black Mail</string>
+    <string name="queen">Queen</string>
+    <string name="raees">Raees</string>
+    <string name="aashiqui2">Aashiqui2</string>
+    <string name="songs">Songs</string>
+    <!-- Number of Songs in album-->
+    <string name="song3">3Songs</string>
+    <string name="song8">8Songs</string>
+    <string name="song5">5Songs</string>
+    <string name="song6">6Songs</string>
+    <string name="song4">4Songs</string>
+    <string name="song11">11Songs</string>
+    <string name="songname">song name</string>
+    <string name="todo">TODO</string>
+    <!-- Punjabi Album-->
+    <string name="jugaadidotcom">Jugaadi</string>
+    <string name="daanapaani">Daana Paani</string>
+    <string name="manjeBistie">Manje Bistie</string>
+    <string name="mereYaarKaminey">Mere Yaar</string>
+    <string name="lashriye">Lashriye</string>
+    <string name="kande">Kande</string>
+    <string name="rabbRakha">Rabb Rakha</string>
+    <string name="sargi">Sargi</string>
+    <string name="nankana">Nankana</string>
+    <string name="virsa">Virsa</string>
+    <string name="darra">Darra</string>
+    <string name="discoSingh">Disco Singh</string>
+    <!-- English Album-->
+    <string name="avatar2">Avatar2</string>
+    <string name="beirut">Beirut</string>
+    <string name="betatest">BetaTest</string>
+    <string name="gonegirl">Gone Girl</string>
+    <string name="hisss">Hisss</string>
+    <string name="iboy">iBOY</string>
+    <string name="popeye">Popeye</string>
+    <string name="rampage">RamPage</string>
+    <string name="skyscraper">SkyScraper</string>
+    <string name="snomannen">Snomannen</string>
+    <string name="thor">Thor</string>
+    <string name="commando">Commando</string>
+    <!-- Artist Album-->
+    <string name="arjit">Arjit Singh</string>
+    <string name="atifaslam">Atif Aslam</string>
+    <string name="baadshah">Baadshah</string>
+    <string name="honeysingh">Honey Singh</string>
+    <string name="kanika">Kanika kapoor</string>
+    <string name="kumarsanu">Kumar Sanu</string>
+    <string name="nehakakkar">Neha Kakkar</string>
+    <string name="neeti">Neeti Mohan</string>
+    <string name="alka">Alka Yagnik</string>
+    <string name="javed">Javed Ali</string>
+    <string name="mika">Mika Singh</string>
+    <string name="ankit">Ankit Tiwari</string>
+    <string name="jassi">Jassi Gill</string>
+    <string name="toast_message">Song is playing</string>
+    <string name="back_button">Back</string>
+</resources>
